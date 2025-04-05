@@ -17,8 +17,8 @@ A simple and classic *Tic Tac Toe* (X-O) game built using HTML, CSS, and JavaScr
 
 ## Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ---
@@ -39,7 +39,8 @@ A simple and classic *Tic Tac Toe* (X-O) game built using HTML, CSS, and JavaScr
 
 ## Screenshot Preview
 ![image](https://github.com/user-attachments/assets/f8f1f097-cc95-4f75-abb4-b4ebf819cad7)
-![image](https://github.com/user-attachments/assets/f9c1ba70-4039-42b8-8f3e-e6aaccf57350)
+![image](https://github.com/user-attachments/assets/7a815d8e-327a-433d-abf5-d557e3e8361a)
+
 
 
 ---
