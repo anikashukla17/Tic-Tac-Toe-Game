@@ -39,7 +39,8 @@ A simple and classic *Tic Tac Toe* (X-O) game built using HTML, CSS, and JavaScr
 
 ## Screenshot Preview
 ![image](https://github.com/user-attachments/assets/f8f1f097-cc95-4f75-abb4-b4ebf819cad7)
-![image](https://github.com/user-attachments/assets/9973eaea-4e11-4ba0-946b-cd00de748b14)
+![image](https://github.com/user-attachments/assets/f9c1ba70-4039-42b8-8f3e-e6aaccf57350)
+
 
 ---
 
